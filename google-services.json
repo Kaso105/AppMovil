@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "972392293350",
+    "project_id": "winter-clone-408105",
+    "storage_bucket": "winter-clone-408105.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:972392293350:android:634d663374c90725966c27",
+        "android_client_info": {
+          "package_name": "com.Dsw_grupoA.proyecto"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyChLOUEuYLRnaoTCah9GIpt5L9WwAmmKFk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
