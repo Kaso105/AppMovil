@@ -7,9 +7,9 @@
   "client": [
     {
       "client_info": {
-        "mobilesdk_app_id": "1:972392293350:android:634d663374c90725966c27",
+        "mobilesdk_app_id": "1:972392293350:android:7e8535a3b11e8bf1966c27",
         "android_client_info": {
-          "package_name": "com.Dsw_grupoA.proyecto"
+          "package_name": "com.appmovil"
         }
       },
       "oauth_client": [],
